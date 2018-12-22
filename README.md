@@ -26,8 +26,20 @@ Electron 让你为你的公司或想法创建桌面端应用变得很简单。�
  - []()
  - []()
 
+
 ## Node.Js学习
-Electron其实就是一个node.js的应用，要真正掌握Electron开发，就需要先学好node.js。
- - https://nodejs.org/docs/latest/api/documentation.html
- - []()
- - []()
+Electron其实就是一个node.js的应用，要真正掌握Electron开发，就需要学会node.js。
+
+**Node.js文档类：**
+ - [Node.js 中文教程](http://www.runoob.com/nodejs/nodejs-tutorial.html)
+ - [Node.js - 廖雪峰博客](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434501245426ad4b91f2b880464ba876a8e3043fc8ef000)
+ - [Node.js 项目依赖介绍](https://nodejs.org/en/docs/meta/topics/dependencies/)
+ - [Node.js 中文版API查询](http://nodejs.cn/api/)
+ - [官方最新版API文档（英文）](https://nodejs.org/docs/latest/api/documentation.html)
+
+**Node.js入门视频：**
+ - [视频：Node.js基础一：全面了解](https://www.imooc.com/learn/348)
+ - [视频：Node.js基础二：实战demo](https://www.imooc.com/learn/637)
+
+**Node.js关注项目：**
+ - [NodeJS爬虫系统](https://www.jikexueyuan.com/course/967.html)
